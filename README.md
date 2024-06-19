@@ -1,5 +1,9 @@
 # BlumBot
 BlumBot is a bot that automatically spends tickets and earns you points in the Blum point collecting game. 
+## Features
+⁕It will continue to work until you use all your tickets.
+⁕Misses 1-2 greens at most
+
 ## Steps for installation
 ⁕ Download this Repository
 ```bash
