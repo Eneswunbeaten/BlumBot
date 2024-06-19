@@ -22,6 +22,8 @@ BlumBot is a bot that automatically spends tickets and earns you points in the B
 ```bash
   python main.py
 ```
+⁕ I would be happy if you throw a star in return for my labor :)
+
 <br/>
 Telegram Desktop Download Link=> https://desktop.telegram.org/
 <br/>
